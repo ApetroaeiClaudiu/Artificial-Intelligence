@@ -1,0 +1,5 @@
+alfa=1
+beta=2
+evaporation=0.5
+pseudo=0.9
+dynamic=250
